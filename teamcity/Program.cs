@@ -8,6 +8,7 @@ namespace teamcity
         {
             MyClass mc = new MyClass();
             mc.MyMethod();
+            mc.MyMethod();
             Console.ReadKey();
         }
     }
