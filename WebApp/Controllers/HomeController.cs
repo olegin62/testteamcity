@@ -24,7 +24,7 @@ namespace WebApp.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page11";
+            ViewBag.Message = "Your contact page1111";
 
             return View();
         }
